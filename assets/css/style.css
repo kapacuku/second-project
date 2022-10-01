@@ -338,7 +338,7 @@ section{
 	font-size: 16px;
 }
 .m:after{
-	content: 'Меню';
+	content: '';
 }
 .c:after{
 	content: 'Закрыть';
@@ -549,7 +549,7 @@ section{
 }
 .fa-viacoin:before {
 	content: url(https://ap-modul.ru/image/logo-n-b.png) !important;
-	zoom:20%;
+	zoom:15%;
 	background-size: 100px !important;
 	width: 100px !important;
 	height: 100px !important;
