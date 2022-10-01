@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Lora:400,400i,700|Raleway:300,600,700,900';
+@import 'https://fonts.googleapis.com/css?family.fa-viacoin=Lora:400,400i,700|Raleway:300,600,700,900';
 @import 'https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css';
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 /*Global Settings*/
@@ -547,8 +547,15 @@ section{
 	width: 14px;
 	margin: 3px;
 }
-
-
+.fa-viacoin:before {
+	content: url(https://ap-modul.ru/image/logo-n-b.png) !important;
+	zoom:20%;
+	background-size: 100px !important;
+	width: 100px !important;
+	height: 100px !important;
+	visibility: visible;
+	display: block;
+  }
 
 
 
